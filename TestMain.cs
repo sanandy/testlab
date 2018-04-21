@@ -38,4 +38,8 @@ public class TestMain : MonoBehaviour {
 		}
 	
 	}
+
+	void MyMethod(){
+		
+	}
 }
